@@ -9,9 +9,8 @@ Ne croyez pas que, parce que vous êtes sur Firefox, Microsoft ne s’est pas do
 Tester la perméabilité de votre navigateur au BrowserGate
 -----------
 
-J’ai créé une page,  reprenant le code du script le plus lourd. Vous pouvez la consulter  quel que soit le navigateur <a title="Page BrowserGate" href="https://dsfc.net/browsergate.html" target="_blank">   utilisé. Il est assez amusant de voir que Chromium renvoie beaucoup plus d’informations que Firefox. Le nombre de cœurs remonté à partir du navigateur de la fondation Mozilla est faux. La quantité de mémoire utilisée n’est pas remontée par Firefox.
-
-Je n’ai pas fait le test avec Google Chrome. Jamais, au grand jamais, je ne ferai cette folie d’installer Google Chrome sur ma machine de production. Il faut d’ailleurs en avoir un sérieux coup dans le caisson de la part d’informaticiens et autres pseudo-experts en sécurité pour utiliser cette bouse de Google Chrome, n’est-ce pas ?
+<p>J&rsquo;ai créé une page, à l&rsquo;aide de Gemini, reprenant le code du script le plus lourd. Vous pouvez <a title="Page BrowserGate" href="https://dsfc.net/browsergate.html" target="_blank">la consulter quel que soit le navigateur utilisé</a>. Il est assez amusant de voir que Chromium renvoie beaucoup plus d&rsquo;informations que Firefox. Le nombre de cœurs remonté à partir du navigateur de la fondation Mozilla est faux. La quantité de mémoire utilisée n&rsquo;est pas remontée par Firefox.</p>
+<p>Je n&rsquo;ai pas fait le test avec Google Chrome. Jamais, au grand jamais, je ne ferai cette folie d&rsquo;installer Google Chrome sur ma machine de production. <span style="background-color: #ffff00;"><strong>Il faut d&rsquo;ailleurs en avoir un sérieux coup dans le caisson de la part d&rsquo;informaticiens et autres pseudo-experts en sécurité pour utiliser cette bouse de Google Chrome, n&rsquo;est-ce pas ?</strong></span></p>
 
 Chromium
 <img width="928" height="862" alt="Chromium" src="https://github.com/user-attachments/assets/936b7a1e-b1db-4ee0-abbf-a5fcf01090a8" />
