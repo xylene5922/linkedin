@@ -9,7 +9,7 @@ Ne croyez pas que, parce que vous êtes sur Firefox, Microsoft ne s’est pas do
 Tester la perméabilité de votre navigateur au BrowserGate
 -----------
 
-J’ai créé une page,  reprenant le code du script le plus lourd. Vous pouvez la consulter quel que soit le navigateur utilisé. Il est assez amusant de voir que Chromium renvoie beaucoup plus d’informations que Firefox. Le nombre de cœurs remonté à partir du navigateur de la fondation Mozilla est faux. La quantité de mémoire utilisée n’est pas remontée par Firefox.
+J’ai créé une page,  reprenant le code du script le plus lourd. Vous pouvez la consulter quel que soit le navigateur  https://dsfc.net/browsergate.html utilisé. Il est assez amusant de voir que Chromium renvoie beaucoup plus d’informations que Firefox. Le nombre de cœurs remonté à partir du navigateur de la fondation Mozilla est faux. La quantité de mémoire utilisée n’est pas remontée par Firefox.
 
 Je n’ai pas fait le test avec Google Chrome. Jamais, au grand jamais, je ne ferai cette folie d’installer Google Chrome sur ma machine de production. Il faut d’ailleurs en avoir un sérieux coup dans le caisson de la part d’informaticiens et autres pseudo-experts en sécurité pour utiliser cette bouse de Google Chrome, n’est-ce pas ?
 
