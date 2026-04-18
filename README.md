@@ -26,5 +26,8 @@ La résistance de Firefox au fingerprinting
 
 Dans le configurateur de Firefox accessible en tapant about:config dans la barre d’adresses, vous pouvez renforcer le navigateur face à la prise d’empreintes. Ce n’est pas le cas dans Chromium. L’avantage de Firefox est de changer l’empreinte Canvas qui identifie de manière unique votre navigateur. Vive Firefox !
 
+<img width="1003" height="684" alt="fingerprinting" src="https://github.com/user-attachments/assets/a1f496b9-6605-48ba-8775-7a6f6bdb1552" />
+
+
 
 
